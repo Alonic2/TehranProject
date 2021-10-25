@@ -1,3 +1,3 @@
 Usage : python Tehran.py Stock {ID} --Start {Date} --End {Date} 
 
-Date : DD-MM-YYYY
+Date Format: DD-MM-YYYY
