@@ -1,8 +1,8 @@
 Usage : python Tehran.py Stock {ID} --Start {Date} --End {Date} 
 
-if path:
+with exe and path :
 
-Tehran.py Stock {ID} --Start {Date} --End {Date}
+Tehran.exe Stock {ID} --Start {Date} --End {Date}
 
 
 Date Format: DD-MM-YYYY
